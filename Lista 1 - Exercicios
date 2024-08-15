@@ -1,0 +1,9 @@
+//Faça uma função que receba como parâmetros os 2 números inteiros , calcula e retorne a a soma dos números
+
+int calcula_soma (int a, int b)
+{
+  int soma;
+  soma= a+b;
+  printf("A soma e: %d", soma);
+  return soma;
+}
